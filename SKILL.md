@@ -1,5 +1,5 @@
 ---
-name: Overseas-CC-TMK-Lead-Distribution
+name: Overseas-CC-Operations
 description: 海外CC&TMK线索分配系统全流程配置与使用指南，包含分配逻辑、CRM配置、优先级、系数、上限、抢单池等完整操作，覆盖运营全链路技能体系
 author: JOEL/MIKE
 version: 1.0.3
