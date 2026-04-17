@@ -66,7 +66,10 @@ references/
 - 权限申请与技术对接按文档指定联系人执行
 
 ## 🚀 快速上手
-在你的AI助手（支持GitHub Skill协议）中，通过以下方式添加此技能：
-```bash
-# 方式1：直接从GitHub仓库安装
-gh skill add https://github.com/liuniuniu1228/Overseas-CC-Operations
+最简单的方式：告诉你的 AI 助手
+
+帮我安装 Overseas-CC-Operations Skill，仓库地址：https://github.com/liuniuniu1228/Overseas-CC-Operations
+
+
+
+
